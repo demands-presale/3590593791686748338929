@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205054863349",
+    "project_id": "streamit-941f3",
+    "storage_bucket": "streamit-941f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205054863349:android:8dab75c4f6dc562d00a2bc",
+        "android_client_info": {
+          "package_name": "com.seonjusan.streamit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205054863349-hifed32ra46h0rljp8ognavsmlj4tkfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seonjusan.streamit",
+            "certificate_hash": "24add8ace807fa24bf1f186871567b4d8687ddef"
+          }
+        },
+        {
+          "client_id": "205054863349-4f2ugpgkc1r2t5mbsuf7nnb3ij9p9pku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCRXZGQ4ITd6WHgrK6TnyZ3h9ldexIK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205054863349-4f2ugpgkc1r2t5mbsuf7nnb3ij9p9pku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
